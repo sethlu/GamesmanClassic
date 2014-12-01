@@ -1,5 +1,6 @@
 import os
 import json
+import random
 AI_DIRECTORY = './src/py/ai/'
 
 class AiRequest(object):
